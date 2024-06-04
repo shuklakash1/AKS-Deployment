@@ -105,24 +105,21 @@ Check svc:
 
 Create an ingress file and excute that file:
     command: kubectl apply -f ingress.yaml # put your file name 
-alt text
+
 
 Check get ingress:
     command: kubectl gbet ingress
-alt text
+
+ ![image](https://github.com/shuklakash1/AKS-Deployment/assets/46483575/d430ba94-a9cc-4d66-8ff1-850a13072236)
+
 
 Setup DNS:
-alt text
+
+
+![image](https://github.com/shuklakash1/AKS-Deployment/assets/46483575/a429bbe5-ec7d-4e40-8392-40b9bf39c9e4)
+ 
 
 Now check your frontend and backend with your domain name:
-Frontend:
 
-alt text
 
-Backend:
-
-- Hello Service:
-alt text
-
-- Profile Service:
-alt text
+![image](https://github.com/shuklakash1/AKS-Deployment/assets/46483575/5c82b248-7305-4353-8dd8-c9e3cc8e49c1)
